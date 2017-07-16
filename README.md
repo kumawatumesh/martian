@@ -1,22 +1,22 @@
-GUITAR:<br /><br />
-Design is highly iterative and innovative process that needs innovation.<br />
-Methodology used:                 
- 1) Identification of need                 
-2) Definition of problem                 
-3) Synthesis                                 
-4) Analysis and Optimization        
-5) Evaluation
-6) Presentation<br />
- Steps used:<br />
- 1) Brainstorming session
- 2) CAD modelling on Solid Works
-  3) Printing of 3D models on 3D printers
-  4) Assembling of 3D models<br />
+## GUITAR :
+Design is highly iterative and innovative process that needs innovation.
+### Methodology used :                 
+* Identification of need                 
+* Definition of problem                 
+* Synthesis                                 
+* Analysis and Optimization        
+* Evaluation
+* Presentation
+ ### Steps used:
+ * Brainstorming session
+ * CAD modelling on Solid Works
+ * Printing of 3D models on 3D printers
+ * Assembling of 3D models<br />
 Designing was done in following phases:<br />
 Designing part of Robot playing guitar was divided in two parts. While playing a guitar there should be equal control on strings as well as on fret selection. Front part is to be played using sticks and rear part is to be pressed simultaneously.
 To achieve the functioning of both parts simultaneously, separate design   should be made. So, design for front part and rear part both should be made.<br />
 
-FRONT DESIGN:<br />
+### FRONT DESIGN:<br />
 
 1. First design (PLA design):<br />
 
@@ -56,7 +56,7 @@ Reasons for selection of design:<br />
 Components made of wood have a sufficient strength. Minimum torque requirement also satisfied
 using this design. Less weight and economic consideration is responsible for selecting this design.
 
-REAR DESIGN:<br />
+### REAR DESIGN:<br />
 Rear design is considered for fret selection.<br />
 Mechanism used:<br />
 4 frets were chosen and on each fret there are 6 strings. Appropriate fret and corresponding string selection should be ensured. Using hydraulic principle, strings were pressed. On one side there is a actuator which is responsible for developing pressure and is connected to syringe. Pipe filled with water was connected between two syringes. Pressure developed by actuator on one side of syringe gets transferred to other syringe using hydraulic principle. Pressing of string is to be achieved using this. Actuators are controlled by motors. It is necessary that maximum pressure transfer take place throughout operation. For achieving maximum pressure condition, actuator support was designed using CAD and then printed using 3D printers. For keeping syringe fixed, syringe support was also designed on 3D printers.<br />
